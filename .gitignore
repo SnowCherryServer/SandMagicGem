@@ -95,6 +95,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# 取消上传两个目录
+/target/
+/.idea/
+
 target/
 
 pom.xml.tag
